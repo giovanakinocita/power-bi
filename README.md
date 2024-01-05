@@ -1,4 +1,4 @@
-# Vários conceitos são consolidados conforme o desenvolver dos projetos. Entre eles estão:
+:bar_chart: # Vários conceitos são consolidados conforme o desenvolver dos projetos. Entre eles estão:
 - Funções DAX avançadas;
 - Indicadores KPI;
 - Cálculo de valores máximos por categoria escolhida;
