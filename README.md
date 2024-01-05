@@ -33,7 +33,7 @@ Nesse projeto foram usadas funções DAX avançadas para cálculos do tipo:
 ![Captura de tela 2024-01-05 151615](https://github.com/giovanakinocita/power-bi/assets/99563440/9634baa9-b72b-428f-bb16-8eefc3f21a03)
 ![Captura de tela 2024-01-05 151639](https://github.com/giovanakinocita/power-bi/assets/99563440/7e15adc5-7685-4149-b5ec-4c7f79672e80)
 
-Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMTYyYjgyN2EtOWUwZi00YzU0LTlkYTEtMmEzNjQ5NjVkNDA2IiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
+:bar_chart:Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMTYyYjgyN2EtOWUwZi00YzU0LTlkYTEtMmEzNjQ5NjVkNDA2IiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
 
 
 
@@ -43,7 +43,7 @@ Com esse dashboard foi possível exibir indicadores KPI de forma que o usuário 
 
 ![compras](https://github.com/giovanakinocita/power-bi/assets/99563440/25c897dd-1302-43dd-aa48-0c332e685281)
 
-Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMWJiZjlhMzgtYjM2NS00OGI1LTgxNDEtZWE4MTkwNWI4OTgyIiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
+:bar_chart:Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMWJiZjlhMzgtYjM2NS00OGI1LTgxNDEtZWE4MTkwNWI4OTgyIiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
 
 
 # EXEMPLO DE DASHBOARD PARA CONTROLE DE VENDAS (Projeto freelancer)
@@ -57,7 +57,7 @@ Com esse dashboard foi possível visualizar métricas como:
 
  ![controledevendas](https://github.com/giovanakinocita/power-bi/assets/99563440/d5b6446d-27a4-4522-8c6f-1b381e3e3674)
 
- Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiNTc5YWU3ZTMtN2MyNy00NGVlLTkzNjEtNTc4NTAzYmYxZmM2IiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
+:bar_chart:Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiNTc5YWU3ZTMtN2MyNy00NGVlLTkzNjEtNTc4NTAzYmYxZmM2IiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
 
 
 # GESTÃO DE LOCAÇÃO DE VEÍCULOS
@@ -72,7 +72,7 @@ Nesse dashboard foi possível calcular e exibir métricas como:
 ![locacaoveiculo2](https://github.com/giovanakinocita/power-bi/assets/99563440/3ca925a7-0afe-48bc-ac36-c2c1e76e7c01)
 ![locacaoveiculo1](https://github.com/giovanakinocita/power-bi/assets/99563440/efb7fb5b-a9e3-430f-a498-254fbe461bef)
 
-Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMWRiNDhkYTYtMzE5My00YTE5LTk2MzctYzZjODdhZmJkNTFiIiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
+:bar_chart:Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMWRiNDhkYTYtMzE5My00YTE5LTk2MzctYzZjODdhZmJkNTFiIiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
 
 
 # GESTÃO DE RH
@@ -86,7 +86,7 @@ No dashboard de controle de RH, é possível visualizar métricas como:
 
 ![projetorh](https://github.com/giovanakinocita/power-bi/assets/99563440/1384fdbb-c902-4f5a-a884-15eaf9cf1ad3)
 
-Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiM2ZkOTlhNGItODQ5ZS00OWI5LWFjNjctZjFkNzNlMTQ4MTg5IiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
+:bar_chart:Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiM2ZkOTlhNGItODQ5ZS00OWI5LWFjNjctZjFkNzNlMTQ4MTg5IiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
 
 
 # GESTÃO FINANCEIRO, RH E CLIENTES
@@ -104,4 +104,4 @@ Foi possível analisar dados como:
 ![vendas2](https://github.com/giovanakinocita/power-bi/assets/99563440/be134c05-12e6-43ff-b394-6407657d4496)
 ![vendas1](https://github.com/giovanakinocita/power-bi/assets/99563440/a5dd9a96-ef31-4cf9-988f-285f6cfcc1f0)
 
- Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMzJmODkzNDQtM2Y3Zi00ZTFjLWE3ODYtMjVkMmNjZDQ5MWUzIiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
+:bar_chart:Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMzJmODkzNDQtM2Y3Zi00ZTFjLWE3ODYtMjVkMmNjZDQ5MWUzIiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
