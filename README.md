@@ -39,7 +39,7 @@ Nesse projeto foram usadas funções DAX avançadas para cálculos do tipo:
 
 # EXEMPLO DE DASHBOARD PARA CONTROLE DE COMPRAS (Projeto freelancer)
 
-Com esse dashboard foi possível exibir indicadores KPI de forma que o usuário consiga visualizar custos de compras.
+Com esse dashboard foi possível exibir indicadores KPI de forma que o usuário consiga visualizar custos de compras, utilizando gráfico de Gauge para medir as metas estpuladas pelo gestor.
 
 ![compras](https://github.com/giovanakinocita/power-bi/assets/99563440/25c897dd-1302-43dd-aa48-0c332e685281)
 
