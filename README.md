@@ -49,6 +49,8 @@ Com esse dashboard foi possível exibir indicadores KPI de forma que o usuário 
 # EXEMPLO DE DASHBOARD PARA CONTROLE DE VENDAS (Projeto freelancer)
 
 Com esse dashboard foi possível visualizar métricas como: 
+- Uso do gráfico indicador como forma de medir metas;
+- Uso de filtros aplicados à página toda para alterar a tela de "Recebimento Imediato" para "Recebimento parcelado";
 - Faturamento por tipo de pagamento (dinheiro, débito, crédito, pix);
 - Cálculo de metas utilizando gráfico de Gauge;
 - Valores faturados VS valores pagos
