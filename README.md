@@ -25,7 +25,7 @@ E não menos importante, soft skills também são praticadas conforme desenvolvi
 
 Nesse projeto foram usadas funções DAX avançadas para cálculos do tipo:
 - Linhas gráficas dentro do escopo sem ultrapassar bordas. Sendo ajustado conforme seleção de períodos;
-- Inserção de símobolos (■) dinâmicos que se alteram conforme diferentes seleções;
+- Inserção de símbolos (■) dinâmicos que se alteram conforme diferentes seleções;
 - Inslusão de variações percentuais e cores dinâmicas conforme queda e alta de valores.
 
 
