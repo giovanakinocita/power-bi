@@ -81,6 +81,7 @@ Nesse dashboard foi possível calcular e exibir métricas como:
 # GESTÃO DE RH
 
 No dashboard de controle de RH, é possível visualizar métricas como:
+- Alteração de cores ed forma condicional à uma variável;
 - Tipo de departamento;
 - Média de idade por gênero;
 - Quantidade de funionário por gênero;
