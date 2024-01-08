@@ -65,6 +65,7 @@ Com esse dashboard foi possível visualizar métricas como:
 # GESTÃO DE LOCAÇÃO DE VEÍCULOS
 
 Nesse dashboard foi possível calcular e exibir métricas como:
+- Exibição de ícones de forma condicional;
 - Faturamento por ano, dia e mês;
 - Média de km rodado por veículo;
 - Quantidade de clientes;
