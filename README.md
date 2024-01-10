@@ -124,9 +124,13 @@ Algumas funções assimiladas no estudo do projeto:
 -  MAX
 
 Nesse projeto resgatei conceitos aprendidos durante a graduação de economia e na MBA em Gestao Financeira e Controladoria. Conceitos como taxa de retorno e risco.
+
 Para coleta de dados foi utilizada uma planilha do Google Sheets através da função GOOGLEFINANCE.
+
 Essa função busca tem como parâmetro a silga do ativo, preço, data de início de cada cotação e data final.
+
 Para a data final foi usada a função =DIATRABALHO(HOJE();0) para contar apenas dias úteis.
+
 A barra Scroller foi exibida com o valor da última cotação de cada ativo com suas respectivas variações do dia anterior.
 
 ![Captura de tela 2024-01-10 131827](https://github.com/giovanakinocita/power-bi/assets/99563440/692a621c-673e-4e71-b2e8-a720c424b52f)
