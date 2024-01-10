@@ -122,6 +122,9 @@ Algumas funções assimiladas no estudo do projeto:
 -  SUMX
 -  MIN
 -  MAX
+-  STDEVX.P
+-  EARLIER
+-  AVERAGEX
 
 Nesse projeto resgatei conceitos aprendidos durante a graduação de economia e na MBA em Gestao Financeira e Controladoria. Conceitos como taxa de retorno e risco.
 
