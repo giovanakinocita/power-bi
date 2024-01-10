@@ -109,3 +109,29 @@ Foi possível analisar dados como:
 ![vendas1](https://github.com/giovanakinocita/power-bi/assets/99563440/a5dd9a96-ef31-4cf9-988f-285f6cfcc1f0)
 
 :bar_chart:Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMzJmODkzNDQtM2Y3Zi00ZTFjLWE3ODYtMjVkMmNjZDQ5MWUzIiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
+
+# RISCO E RETORNO - ATUALIZAÇÃO AUTOMÁTICA DE COTAÇÕES DA IBOVESPA
+
+Algumas funções assimiladas no estudo do projeto:
+- STDEV.P
+-  POWER
+-  LASTNONBLANK
+-  LOOKUPVALUE
+-  IFERROR
+-  BLANK
+-  SUMX
+-  MIN
+-  MAX
+
+* Nesse projeto resgatei conceitos aprendidos durante a graduação de economia e na MBA em Gestao Financeira e Controladoria. Conceitos como taxa de retorno e risco.
+* Para coleta de dados foi utilizada uma planilha do Google Sheets através da função GOOGLEFINANCE.
+* Essa função busca tem como parâmetro a silga do ativo, preço, data de início de cada cotação e data final.
+* Para a data final foi usada a função =DIATRABALHO(HOJE();0) para contar apenas dias úteis.
+* A barra Scroller foi exibida com o valor da última cotação de cada ativo com suas respectivas variações do dia anterior.
+
+![Captura de tela 2024-01-10 131827](https://github.com/giovanakinocita/power-bi/assets/99563440/692a621c-673e-4e71-b2e8-a720c424b52f)
+![Captura de tela 2024-01-10 132053](https://github.com/giovanakinocita/power-bi/assets/99563440/b516b8cc-2bf9-488b-806a-8b0c159c10d2)
+![Captura de tela 2024-01-10 132126](https://github.com/giovanakinocita/power-bi/assets/99563440/9c893ce0-1bc6-4a7f-966b-7dc1f053a764)
+
+
+:bar_chart: Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiZjFhMDY5MWItN2FiMy00NDM1LTg4Y2EtM2QzYjdlNDExMzk3IiwidCI6IjQyODgwYTYzLWFkNWYtNGExNy1hZWI3LWM3OWE5NDY5YTk5ZCJ9
